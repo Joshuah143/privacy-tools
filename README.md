@@ -9,7 +9,7 @@ Some basic privacy tools
 - TOR
 
 ## Encryption:
-- openPGP
+- OpenPGP
 - VeraCrypt
 - KeyBase
 - Yubikey (as PGP smart card)
@@ -24,3 +24,10 @@ Some basic privacy tools
 ## OS:
 - TAILS
 - Cubes
+
+## Crypto:
+- Monero
+
+## ETC:
+- Objectivebythesee
+- Password manager, no current recomendations, likly just a txt file on an encrypted drive
