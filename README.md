@@ -31,3 +31,17 @@ Some basic privacy tools
 ## ETC:
 - Objectivebythesee
 - Password manager, no current recomendations, likly just a txt file on an encrypted drive
+
+## cloud services that are good to use to have a varity:
+- Cloudflare workers (serverless wasm, free)
+- Cloudflare pages (serverless static site, free)
+- Heroku (PaaS, free tier)
+- MongoDB (document DB, free tier)
+- Redis (KVDB, free tier)
+- Linode (Iaas, cheap but not free)
+- Digital Ocean (Iaas, cheap but not free)
+- AWS, Google Cloud, Azure (everything, but decently complex, big tech)
+
+### Non compute cloud:
+- twilio (message and phone)
+
