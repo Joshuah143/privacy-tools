@@ -33,6 +33,7 @@ Some basic privacy tools
 - Password manager, no current recomendations, likly just a txt file on an encrypted drive
 
 ## cloud services that are good to use to have a varity:
+- Vultr (linode but you can pay by crypto, cheap but not free)
 - Cloudflare workers (serverless wasm, free)
 - Cloudflare pages (serverless static site, free)
 - Heroku (PaaS, free tier)
